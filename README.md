@@ -1,6 +1,9 @@
 # Resale Scout: overview
 
 > **Source code is private.** This repository describes the system's logic and architecture.
+>
+> 🕶️ *"Resale Scout" is a codename. The real name says which marketplace it watches,
+> and the marketplace is happier not knowing.*
 
 **An autonomous agent that watches second-hand classifieds marketplaces 24/7, finds audio equipment
 listed below its real market value, and pushes the deals to Telegram with photos, price, distance and
